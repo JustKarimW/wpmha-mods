@@ -1,0 +1,90 @@
+{
+    "version": "2026-05-06",
+    "mods": [
+        {
+            "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "md5": "12954551f39bed840b32fd8be8fddb54"
+        },
+        {
+            "name": "BetterRecords_1.12.2_1.6.2.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/BetterRecords_1.12.2_1.6.2.jar",
+            "md5": "bc57ec9b7574e145077ec08263b6cfd8"
+        },
+        {
+            "name": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/BiblioCraft%5Bv2.4.6%5D%5BMC1.12.2%5D.jar",
+            "md5": "c10b7d250bdeb1efedf17b4b0c40c573"
+        },
+        {
+            "name": "cfm-legacy-1.12.2-6.5.0.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/cfm-legacy-1.12.2-6.5.0.jar",
+            "md5": "d76a8e6f74991e44d91e7f08c000fcf9"
+        },
+        {
+            "name": "ChinjufuMod[1.12.2]5.1.3.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/ChinjufuMod%5B1.12.2%5D5.1.3.jar",
+            "md5": "b4ac697a8ea76e469049b85d8743a06e"
+        },
+        {
+            "name": "CreativeCore_v1.10.71_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/CreativeCore_v1.10.71_mc1.12.2.jar",
+            "md5": "df1051927921c2852946cc4fd20da86e"
+        },
+        {
+            "name": "CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/CustomNPCs_1.12.2-(05Jul20).jar",
+            "md5": "3ab1a5c4b069d574631da5bc1880ebf7"
+        },
+        {
+            "name": "Forgelin_1.8.4.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/Forgelin_1.8.4.jar",
+            "md5": "2da79fce72265eab0541e565636d389d"
+        },
+        {
+            "name": "FutureVersions v1.3.1.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/FutureVersions%20v1.3.1.jar",
+            "md5": "e2d83e1bb81d3c4f3a1c905a52cdaade"
+        },
+        {
+            "name": "geckolib-forge-1.12.2-3.0.31.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/geckolib-forge-1.12.2-3.0.31.jar",
+            "md5": "67c60191c4736b3857e5129282a206cd"
+        },
+        {
+            "name": "HideNames-1.12.2-1.4.1.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/HideNames-1.12.2-1.4.1.jar",
+            "md5": "c8b8a5514f134a7add2fd53ebb600f0b"
+        },
+        {
+            "name": "mcw-furniture-1.0.1-mc1.12.2beta.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/mcw-furniture-1.0.1-mc1.12.2beta.jar",
+            "md5": "acd3fcf4549e81d7b179b4c213927e5d"
+        },
+        {
+            "name": "ModularVoiceChat-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/ModularVoiceChat-1.1.1.jar",
+            "md5": "6d0d12edbb8968568b3608f6e4a107ac"
+        },
+        {
+            "name": "OptiFine_1.12.2_HD.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/OptiFine_1.12.2_HD.jar",
+            "md5": "043ac1db6f7441ea4cf31bcb621aff0b"
+        },
+        {
+            "name": "VariedCommodities_1.12.2-(31Mar23).jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/VariedCommodities_1.12.2-(31Mar23).jar",
+            "md5": "517cf8b1f3443b9fe1203ddf324eff69"
+        },
+        {
+            "name": "wpmha-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/wpmha-1.0.0.jar",
+            "md5": "c058c9164fbdb85281525f377588a660"
+        },
+        {
+            "name": "XaeroWorldMap.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/XaeroWorldMap.jar",
+            "md5": "f1d675808c2568137534ec4876b8d914"
+        }
+    ]
+}
