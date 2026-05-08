@@ -1,5 +1,5 @@
 {
-    "version": "2026-05-07",
+    "version": "2026-05-08",
     "mods": [
         {
             "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
@@ -79,7 +79,7 @@
         {
             "name": "wpmha-1.0.0.jar",
             "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/wpmha-1.0.0.jar",
-            "md5": "3d70f887c23ee68764ef8e3bd6bd590e"
+            "md5": "ab620463e71eebf8ece80e063f247cb1"
         },
         {
             "name": "XaeroWorldMap.jar",
