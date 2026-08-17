@@ -62,9 +62,9 @@
             "md5": "acd3fcf4549e81d7b179b4c213927e5d"
         },
         {
-            "name": "ModularVoiceChat-1.1.1.jar",
-            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/ModularVoiceChat-1.1.1.jar",
-            "md5": "6d0d12edbb8968568b3608f6e4a107ac"
+            "name": "voicechat-forge-1.12.2-2.6.22.jar",
+            "url": "https://raw.githubusercontent.com/JustKarimW/wpmha-mods/main/voicechat-forge-1.12.2-2.6.22.jar",
+            "md5": "771f7747b6b0b84946d7f13d39cd5f1b"
         },
         {
             "name": "OptiFine_1.12.2_HD.jar",
